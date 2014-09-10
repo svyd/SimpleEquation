@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InnoCalc</string>
+    <string name="math_problem">3+7*5*(3-1)</string>
+    <string name="result">Result will apper here...</string>
+    <string name="result_phase">Result: %1$s</string>
+    <string name="action_settings">Settings</string>
+    <string name="phase_1_solve_it">Phase 1: Solve it!</string>
+    <string name="phase_2_divide_by_0">Phase 2: Divide by 0</string>
+    <string name="phase_3_power">Phase 3: Power(^2)</string>
+
+</resources>
