@@ -38,3 +38,4 @@ build/
 
 # Misc
 .DS_Store
+!binaries/*
